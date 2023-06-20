@@ -20,20 +20,20 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
-let teksbio = `𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-*Wa.me/51950758440*
+let teksbio = `𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃 😼♥️
+*Wa.me/51994156047*
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *2* 💖🐈
-*wa.me/573027834626*
+𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃 *2* 😼♥️
+*wa.me/51994156047*
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 💖🐈
-*wa.me/593993684821*
+𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃 😼♥️
+*wa.me/51994156047*
 *---------------------*
 
-*CENTER GATABOT*
-*centergatabot@gmail.com*
+*CENTER CHARLIEBOT*
+*chonlonemerson10@gmail.com*
 
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+ 𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃 😼♥️- 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
   let teks = ' '
 const sections = [
