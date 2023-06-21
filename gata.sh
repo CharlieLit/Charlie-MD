@@ -263,7 +263,7 @@ menu() {
 }
 
 menu_ayuda() {
-    #printf "${v1}[${b}++${v1}]${v} GataBot-MD${b}: "
+    #printf "${v1}[${b}++${v1}]${v} Charlie-MD${b}: "
 	read opcion
 	case $opcion in
             01|1)
